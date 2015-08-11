@@ -1,0 +1,16 @@
+{
+	"projects":{
+		"dondup":{
+			"name":"Dondup",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. A soluta expedita porro, deserunt debitis blanditiis autem aspernatur aliquam facere ab excepturi id nulla laudantium, optio distinctio alias rem amet commodi.",
+			"company":"Bureau for visual affairs",
+			"company_link":"http://bureau-va.com"
+		},
+		"dondup":{
+			"name":"Dondup",
+			"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. A soluta expedita porro, deserunt debitis blanditiis autem aspernatur aliquam facere ab excepturi id nulla laudantium, optio distinctio alias rem amet commodi.",
+			"company":"Bureau for visual affairs",
+			"company_link":"http://bureau-va.com"
+		},
+	}
+}

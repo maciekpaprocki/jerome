@@ -1,0 +1,33 @@
+{
+    "name": "imanee/imanee",
+    "description": "PHP Image Manipulation Library",
+    "keywords": ["image", "php", "imagick", "gd", "imagemagick"],
+    "homepage": "http://imanee.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erika Heidi",
+            "email": "erika@erikaheidi.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "ext-imagick": "*",
+        "ext-gd": "*",
+        "mockery/mockery": "^0.9.4"
+    },
+    "autoload": {
+        "psr-4": { "Imanee\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Imanee\\Tests\\": "tests/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
